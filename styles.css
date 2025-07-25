@@ -122,3 +122,13 @@ body {
 .three-captions {
     color: #EDF2F4;
 }
+
+#guide {
+    background-color: #EDF2F4;
+}
+
+#guide-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
