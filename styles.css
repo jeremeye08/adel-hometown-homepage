@@ -39,6 +39,7 @@ body {
     color: #EF233C;
 }
 
+/* hero section */
 #hero {
     background-image: url("images/hero-bahrain.jpg");
     background-size: cover;
@@ -74,6 +75,7 @@ body {
     text-shadow: 0px 0px #2b2d42;
 }
 
+/* attractons section */
 #attractions {
     background-color: #2B2D42;
     display: flex;
@@ -110,7 +112,7 @@ body {
     justify-content: start;
     align-items: center;
     width: 300px;
-    height: 600px;
+    height: 500px;
 }
 
 .three-head-captions, .three-captions {
@@ -123,6 +125,7 @@ body {
     color: #EDF2F4;
 }
 
+/* guide section */
 #guide {
     background-color: #EDF2F4;
     height: 70vh;
